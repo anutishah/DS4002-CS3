@@ -10,6 +10,8 @@ The necessary data is located in the "DATA" folder and includes a dataset to be 
 - Data_Entry_2017_v2020.csv (CSV file containing X-ray results)
 - image data.md (Instructions on downloading)
 ## Reference Materials
-The "Reference Materials" folder contains helpful resources related to the context of the case study in the real world and tips on convolutional neural networks in this context. 
+The "Reference Materials" folder contains helpful resources related to the context of the case study in the real world and tips on convolutional neural networks in this context. The folder contains:
+- How-Artificial-Intelligence-Is-Revolutionizing-Emergency-Medicine.pdf
+- automated-classification-of-chest-x-ray-images-as-normal-or-60cez3p95p.pdf
 
 Furthermore, if an example script would be helpful, refer to this repo: https://github.com/anutishah/ds4002-project3-DataDawgs
